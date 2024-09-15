@@ -17,9 +17,9 @@
 &lt;p&gt;Today I learned that the KSPS, which has been running for 3 years, was deleted not long ago and there is no backup.&lt;/p&gt;
 &lt;h1 id=&#34;the-ksps&#34;&gt;The KSPS
 &lt;/h1&gt;&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 200px;&#34;&gt;
-  &lt;img src=&#34;pbfymkz6.png&#34; alt=&#34;Shiprock&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;img src=&#34;pbfymkz6.png&#34; alt=&#34;KSPS&#34; style=&#34;width: 100%;&#34;&gt;
 &lt;/a&gt;
-KSPS stands for `Kerbal Space Program Stack`. Its original purpose was to better communicate KSP-related content, including but not limited to works, modules, and some other ideas. Through the support of beautification components, KSPS later became a resource sharing platform based on KSP, with chat room functions.
+&lt;p&gt;KSPS stands for &lt;code&gt;Kerbal Space Program Stack&lt;/code&gt;. Its original purpose was to better communicate KSP-related content, including but not limited to works, modules, and some other ideas. Through the support of beautification components, KSPS later became a resource sharing platform based on KSP, with chat room functions.&lt;/p&gt;
 &lt;p&gt;Although KSPS is gone, BLOG will inherit everything from before, optimize, iterate and update continuously.&lt;/p&gt;
 </description>
         </item>
@@ -32,6 +32,125 @@ KSPS stands for `Kerbal Space Program Stack`. Its original purpose was to better
         <description>&lt;p&gt;This can be said to be the worst month. Although DSα was good at first, the complexity of the table and the tediousness of the calculations made me spend too much time on this &amp;ldquo;efficiency system&amp;rdquo;, wasting a lot of time without any actual results. The program that automatically calculates time has no practical effect, and I have not found a suitable way to summarize and process the large amount of data generated every day.&lt;/p&gt;
 &lt;p&gt;Rebuilding DSα on Obsidian has indeed simplified a lot of content, but it still cannot solve the fundamental problem, that is, it is not intuitive enough. The limitations of the table and the disappointing functions of Obsidian mind mapping software forced me to choose other software to build this system.&lt;/p&gt;
 &lt;p&gt;Currently, I am migrating it to Simplemind Pro, a well-rated mind mapping software. The completely free configuration and nodes can free the original content from the table, because the best choice is &amp;ldquo;display everything on a huge plane&amp;rdquo;, what you see is what you get.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Time Flip Update Logs</title>
+        <link>https://enthalpiex.github.io/en/p/time-flip-update-logs/</link>
+        <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/time-flip-update-logs/</guid>
+        <description>&lt;p&gt;#2024-04-17-v1.1.05&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exvelp 添加到时间线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#2024-04-17-v1.1.04&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exvelp α&amp;amp;β创建&lt;/li&gt;
+&lt;li&gt;Exvelp β增加复选框&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;##2024-04-15-v1.1.03
+-新增DeepFocus栏目&lt;/p&gt;
+&lt;p&gt;##2024-04-10-v1.1.02&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;迁移[Directivity system α]日志&lt;/li&gt;
+&lt;li&gt;新增独立日志Topic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;##2024-04-09-v1.1.01&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Release——New Version!&lt;/li&gt;
+&lt;li&gt;Main拆解及结构化改良&lt;/li&gt;
+&lt;li&gt;配色改良&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;##2024-04-08-v1.1.0-pre-6&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;删除旧定义内容&lt;/li&gt;
+&lt;li&gt;迁移log位置&lt;/li&gt;
+&lt;li&gt;新目标主题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;##2024-04-07-v1.1.0-pre-5&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;细化4月时间轴内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-06-v110-pre-4&#34;&gt;2024-04-06-v1.1.0-pre-4
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;取消进度显示以防分心&lt;/li&gt;
+&lt;li&gt;调整洗漱策略&lt;/li&gt;
+&lt;li&gt;增加单个Block时长&lt;/li&gt;
+&lt;li&gt;减少单日事件数量&lt;/li&gt;
+&lt;li&gt;增加恢复时间以保持专注&lt;/li&gt;
+&lt;li&gt;单日目标变更&lt;/li&gt;
+&lt;li&gt;配色及布局改良&lt;/li&gt;
+&lt;li&gt;新增进度色&lt;/li&gt;
+&lt;li&gt;添加EE至DeepFocus&lt;/li&gt;
+&lt;li&gt;删除所有日规划历史文件&lt;/li&gt;
+&lt;li&gt;英文翻译&amp;amp;更新&lt;/li&gt;
+&lt;li&gt;新增计划至8月&lt;/li&gt;
+&lt;li&gt;新增时间具体分配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-04-v110-pre-3&#34;&gt;2024-04-04-v1.1.0-pre-3
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增标签颜色&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;##2024-04-02-v1.1.0-pre-2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;启用Boosted进行时间统计&lt;/li&gt;
+&lt;li&gt;删除大部分日规划历史文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;##2024-04-02-v1.1.0-pre-1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新增 意义&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;##2024-04-01-v1.0.1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;配置Obsidian计划云同步&lt;/li&gt;
+&lt;li&gt;未完成计划配色改良&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-29-v100&#34;&gt;2024-03-29-v1.0.0
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;时间线颜色&amp;amp;排布优化&lt;/li&gt;
+&lt;li&gt;更改部分任务优先级&lt;/li&gt;
+&lt;li&gt;重新启用Obsidian时间管理&lt;/li&gt;
+&lt;li&gt;取消SimpleMind单日规划&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-28-v014&#34;&gt;2024-03-28-v0.1.4
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增总时间线&lt;/li&gt;
+&lt;li&gt;Start Using English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-17-v013&#34;&gt;2024-03-17-v0.1.3
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;缩小字体优化拖动流畅度&lt;/li&gt;
+&lt;li&gt;修正部分字体格式错误&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-16-v012&#34;&gt;2024-03-16-v0.1.2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增DeepFocus 栏目&lt;/li&gt;
+&lt;li&gt;新增早晨散步&lt;/li&gt;
+&lt;li&gt;将冥想移至DeepFocus 栏目中&lt;/li&gt;
+&lt;li&gt;新增部分项目注解&lt;/li&gt;
+&lt;li&gt;修改Hardware Dev 部分内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;##2024-03-01-v0.1.1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;向Theoretical basis 添加了校内完成作业事项&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-02-29-v010&#34;&gt;2024-02-29-v0.1.0
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Timeflip 主体迁移完成&lt;/li&gt;
+&lt;li&gt;Obsidian 版封存&lt;/li&gt;
+&lt;li&gt;可读性&amp;amp;显示结构改良&lt;/li&gt;
+&lt;li&gt;Obsidian 配色改良&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;20240126-v002&#34;&gt;2024.01.26-v0.0.2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Timeflip 迁移至SimpleMind&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;D.s. α 迁移至Timeflip&lt;/li&gt;
+&lt;li&gt;Obsidian初稿&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
