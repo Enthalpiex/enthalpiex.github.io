@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://enthalpiex.github.io/zh-cn/categories/efficiency-project/'>
 
-<link rel="stylesheet" href="/scss/style.min.20c9af10bd4fc4f344ab52163b06cb2ff6434ecc65f5998b780d249f7ccf2a68.css"><meta property='og:title' content="Category: Efficiency Project - Entropiex">
+<link rel="stylesheet" href="/scss/style.min.3f0aeebeda25ca9b4af009136c596c0fce3b50b1eba0de60bd47647a4d7187bd.css"><meta property='og:title' content="Category: Efficiency Project - Entropiex">
 <meta property='og:description' content="Personal BLOG">
 <meta property='og:url' content='https://enthalpiex.github.io/zh-cn/categories/efficiency-project/'>
 <meta property='og:site_name' content='Entropiex'>
@@ -268,11 +268,9 @@
     <aside class="sidebar right-sidebar sticky">
         
             
-                <form action="/zh-cn/search/" class="search-form widget" >
+                <form action="/zh-cn/search/" class="search-form">
         <p>
-            <label>搜索</label>
             <input name="keyword" required placeholder="输入关键词..." />
-        
             <button title="搜索">
                 <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
@@ -306,8 +304,7 @@
         
         
         <div class="widget-archive--timeline">
-            <div class="timeline-current-date"></div>
-            <div class="timeline-item">
+            <div class="timeline-item" data-year="2024">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">
@@ -345,6 +342,36 @@
                                 <li>
                                     <a href="/zh-cn/p/ds%CE%B1-update-0109/">
                                         01-09 DSα-update-0109
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/zh-cn/p/ds%CE%B1-update-0108/">
+                                        01-08 DSα-update-0108
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/zh-cn/p/ds%CE%B1-update-0106/">
+                                        01-06 DSα-update-0106
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/zh-cn/p/ds%CE%B1-update-0105/">
+                                        01-05 DSα-update-0105
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/zh-cn/p/ds%CE%B1-update-0104/">
+                                        01-04 DSα-update-0104
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/zh-cn/p/directivity-system-%CE%B1/">
+                                        01-02 Directivity System α
                                     </a>
                                 </li>
                             
@@ -480,7 +507,7 @@
         
     </section>
 <footer class="site-footer"><section class="copyright">
-        &copy; 151553 Entropiex
+        &copy; 151541 Entropiex
     </section>
 </footer>
 
@@ -512,29 +539,18 @@ document.addEventListener('DOMContentLoaded', function() {
     if (timeline && backButton) {
         const currentDate = new Date();
         const currentYear = currentDate.getFullYear();
-        const currentMonth = currentDate.getMonth() + 1;
-        const currentDay = currentDate.getDate();
 
         const yearItems = timeline.querySelectorAll('.timeline-item');
         let currentYearItem;
         yearItems.forEach(item => {
-            const yearText = item.querySelector('.timeline-title').textContent;
-            const year = parseInt(yearText);
+            const year = parseInt(item.dataset.year);
             if (year === currentYear) {
                 currentYearItem = item;
             }
         });
 
         if (currentYearItem) {
-            const currentDateMarker = document.createElement('div');
-            currentDateMarker.className = 'timeline-current-date';
-            currentDateMarker.setAttribute('data-date', `${currentYear}-${currentMonth.toString().padStart(2, '0')}-${currentDay.toString().padStart(2, '0')}`);
-            
-            const markerPosition = currentYearItem.offsetTop + (currentYearItem.offsetHeight * (currentMonth - 1) / 12);
-            currentDateMarker.style.top = `${markerPosition}px`;
-            
-            timeline.appendChild(currentDateMarker);
-            currentPosition = markerPosition - timeline.offsetHeight / 2;
+            currentPosition = currentYearItem.offsetTop - timeline.offsetHeight / 2;
             timeline.scrollTop = currentPosition;
         }
 
