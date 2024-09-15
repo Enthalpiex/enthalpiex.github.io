@@ -7,37 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>From KSPS</title>
-        <link>https://enthalpiex.github.io/en/p/from-ksps/</link>
-        <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://enthalpiex.github.io/en/p/from-ksps/</guid>
-        <description>&lt;img src="https://enthalpiex.github.io/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;We can never know when an accident will happen.&lt;/p&gt;
-&lt;p&gt;Today I learned that the KSPS, which has been running for 3 years, was deleted not long ago and there is no backup.&lt;/p&gt;
-&lt;h1 id=&#34;the-ksps&#34;&gt;The KSPS
-&lt;/h1&gt;&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 200px;&#34;&gt;
-  &lt;img src=&#34;pbfymkz6.png&#34; alt=&#34;KSPS&#34; style=&#34;width: 100%;&#34;&gt;
-&lt;/a&gt;
-&lt;p&gt;KSPS stands for &lt;code&gt;Kerbal Space Program Stack&lt;/code&gt;. Its original purpose was to better communicate KSP-related content, including but not limited to works, modules, and some other ideas. Through the support of beautification components, KSPS later became a resource sharing platform based on KSP, with chat room functions.&lt;/p&gt;
-&lt;p&gt;Although KSPS is gone, BLOG will inherit everything from before, optimize, iterate and update continuously.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Obsidian is not ENOUGH</title>
-        <link>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</link>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</guid>
-        <description>&lt;p&gt;This can be said to be the worst month. Although DSα was good at first, the complexity of the table and the tediousness of the calculations made me spend too much time on this &amp;ldquo;efficiency system&amp;rdquo;, wasting a lot of time without any actual results. The program that automatically calculates time has no practical effect, and I have not found a suitable way to summarize and process the large amount of data generated every day.&lt;/p&gt;
-&lt;p&gt;Rebuilding DSα on Obsidian has indeed simplified a lot of content, but it still cannot solve the fundamental problem, that is, it is not intuitive enough. The limitations of the table and the disappointing functions of Obsidian mind mapping software forced me to choose other software to build this system.&lt;/p&gt;
-&lt;p&gt;Currently, I am migrating it to Simplemind Pro, a well-rated mind mapping software. The completely free configuration and nodes can free the original content from the table, because the best choice is &amp;ldquo;display everything on a huge plane&amp;rdquo;, what you see is what you get.&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Time Flip Update Logs</title>
         <link>https://enthalpiex.github.io/en/p/time-flip-update-logs/</link>
-        <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
         <guid>https://enthalpiex.github.io/en/p/time-flip-update-logs/</guid>
         <description>&lt;img src="https://enthalpiex.github.io/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
@@ -195,6 +168,33 @@
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Isolation Program&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>From KSPS</title>
+        <link>https://enthalpiex.github.io/en/p/from-ksps/</link>
+        <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/from-ksps/</guid>
+        <description>&lt;img src="https://enthalpiex.github.io/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;We can never know when an accident will happen.&lt;/p&gt;
+&lt;p&gt;Today I learned that the KSPS, which has been running for 3 years, was deleted not long ago and there is no backup.&lt;/p&gt;
+&lt;h1 id=&#34;the-ksps&#34;&gt;The KSPS
+&lt;/h1&gt;&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 200px;&#34;&gt;
+  &lt;img src=&#34;pbfymkz6.png&#34; alt=&#34;KSPS&#34; style=&#34;width: 100%;&#34;&gt;
+&lt;/a&gt;
+&lt;p&gt;KSPS stands for &lt;code&gt;Kerbal Space Program Stack&lt;/code&gt;. Its original purpose was to better communicate KSP-related content, including but not limited to works, modules, and some other ideas. Through the support of beautification components, KSPS later became a resource sharing platform based on KSP, with chat room functions.&lt;/p&gt;
+&lt;p&gt;Although KSPS is gone, BLOG will inherit everything from before, optimize, iterate and update continuously.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Obsidian is not ENOUGH</title>
+        <link>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</link>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</guid>
+        <description>&lt;p&gt;This can be said to be the worst month. Although DSα was good at first, the complexity of the table and the tediousness of the calculations made me spend too much time on this &amp;ldquo;efficiency system&amp;rdquo;, wasting a lot of time without any actual results. The program that automatically calculates time has no practical effect, and I have not found a suitable way to summarize and process the large amount of data generated every day.&lt;/p&gt;
+&lt;p&gt;Rebuilding DSα on Obsidian has indeed simplified a lot of content, but it still cannot solve the fundamental problem, that is, it is not intuitive enough. The limitations of the table and the disappointing functions of Obsidian mind mapping software forced me to choose other software to build this system.&lt;/p&gt;
+&lt;p&gt;Currently, I am migrating it to Simplemind Pro, a well-rated mind mapping software. The completely free configuration and nodes can free the original content from the table, because the best choice is &amp;ldquo;display everything on a huge plane&amp;rdquo;, what you see is what you get.&lt;/p&gt;
 </description>
         </item>
         <item>

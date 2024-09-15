@@ -7,37 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>From KSPS</title>
-        <link>https://enthalpiex.github.io/zh-cn/p/from-ksps/</link>
-        <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://enthalpiex.github.io/zh-cn/p/from-ksps/</guid>
-        <description>&lt;img src="https://enthalpiex.github.io/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;我们永远不知道意外会何时发生。&lt;/p&gt;
-&lt;p&gt;我刚刚得知，持续运行了3年的KSPS不久前被删除了，没有备份。&lt;/p&gt;
-&lt;h1 id=&#34;什么是-ksps&#34;&gt;什么是 KSPS
-&lt;/h1&gt;&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 200px;&#34;&gt;
-  &lt;img src=&#34;pbfymkz6.png&#34; alt=&#34;KSPS&#34; style=&#34;width: 100%;&#34;&gt;
-&lt;/a&gt;
-&lt;p&gt;KSPS的全称是&lt;code&gt;Kerbal Space Program Stack&lt;/code&gt;，其初衷是更好地交流KSP相关内容，包括但不限于作品，模组以及一些其它想法。通过美化组件支持，后来的KSPS成为了一个以KSP为主的资源分享平台，兼具聊天室功能。&lt;/p&gt;
-&lt;p&gt;虽然KSPS已经远去，但是BLOG会继承之前的一切，优化迭代，不断更新。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Obsidian is not ENOUGH</title>
-        <link>https://enthalpiex.github.io/zh-cn/p/obsidian-is-not-enough/</link>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://enthalpiex.github.io/zh-cn/p/obsidian-is-not-enough/</guid>
-        <description>&lt;p&gt;可以说这是最糟糕的一个月。尽管DSα最初还不错，但是表格的复杂性和计算的繁琐使花在这个“效率系统”的时间上过多，浪费了大量时间却没有实际成果。自动计算时间的程序并没有什么实际作用，我也没有找到合适的方法总结和处理每天产生的大量数据。&lt;/p&gt;
-&lt;p&gt;在Obsidian上重新构建DSα的确简化了许多内容，但是依然无法解决根本上的问题，即不够直观。表格的局限性和Obsidian思维导图软件的令人唏嘘的功能让我不得不选择其它软件构建这套系统。&lt;/p&gt;
-&lt;p&gt;目前，我正在将其迁移到Simplemind Pro，一款评分不错的思维导图软件。完全自由的构型和节点可以让原先的内容从表格里解放出来，因为最好的选择就是“在一个巨大的平面上显示一切”，所见即所得。&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Time Flip Update Logs</title>
         <link>https://enthalpiex.github.io/zh-cn/p/time-flip-update-logs/</link>
-        <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
         <guid>https://enthalpiex.github.io/zh-cn/p/time-flip-update-logs/</guid>
         <description>&lt;img src="https://enthalpiex.github.io/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
@@ -195,6 +168,33 @@
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Isolation Program&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>From KSPS</title>
+        <link>https://enthalpiex.github.io/zh-cn/p/from-ksps/</link>
+        <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/zh-cn/p/from-ksps/</guid>
+        <description>&lt;img src="https://enthalpiex.github.io/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;我们永远不知道意外会何时发生。&lt;/p&gt;
+&lt;p&gt;我刚刚得知，持续运行了3年的KSPS不久前被删除了，没有备份。&lt;/p&gt;
+&lt;h1 id=&#34;什么是-ksps&#34;&gt;什么是 KSPS
+&lt;/h1&gt;&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 200px;&#34;&gt;
+  &lt;img src=&#34;pbfymkz6.png&#34; alt=&#34;KSPS&#34; style=&#34;width: 100%;&#34;&gt;
+&lt;/a&gt;
+&lt;p&gt;KSPS的全称是&lt;code&gt;Kerbal Space Program Stack&lt;/code&gt;，其初衷是更好地交流KSP相关内容，包括但不限于作品，模组以及一些其它想法。通过美化组件支持，后来的KSPS成为了一个以KSP为主的资源分享平台，兼具聊天室功能。&lt;/p&gt;
+&lt;p&gt;虽然KSPS已经远去，但是BLOG会继承之前的一切，优化迭代，不断更新。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Obsidian is not ENOUGH</title>
+        <link>https://enthalpiex.github.io/zh-cn/p/obsidian-is-not-enough/</link>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/zh-cn/p/obsidian-is-not-enough/</guid>
+        <description>&lt;p&gt;可以说这是最糟糕的一个月。尽管DSα最初还不错，但是表格的复杂性和计算的繁琐使花在这个“效率系统”的时间上过多，浪费了大量时间却没有实际成果。自动计算时间的程序并没有什么实际作用，我也没有找到合适的方法总结和处理每天产生的大量数据。&lt;/p&gt;
+&lt;p&gt;在Obsidian上重新构建DSα的确简化了许多内容，但是依然无法解决根本上的问题，即不够直观。表格的局限性和Obsidian思维导图软件的令人唏嘘的功能让我不得不选择其它软件构建这套系统。&lt;/p&gt;
+&lt;p&gt;目前，我正在将其迁移到Simplemind Pro，一款评分不错的思维导图软件。完全自由的构型和节点可以让原先的内容从表格里解放出来，因为最好的选择就是“在一个巨大的平面上显示一切”，所见即所得。&lt;/p&gt;
 </description>
         </item>
         <item>
