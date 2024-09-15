@@ -13,9 +13,9 @@
         <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
         
         <guid>https://enthalpiex.github.io/en/about/</guid>
-        <description>&lt;p&gt;`&amp;ldquo;Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas?&lt;/p&gt;
-&lt;p&gt;We choose to go to the moon.&lt;/p&gt;
-&lt;p&gt;We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.&amp;quot;`&lt;/p&gt;
+        <description>&lt;p&gt;&lt;code&gt;&amp;quot;Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;We choose to go to the moon.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.&amp;quot;&lt;/code&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -26,21 +26,9 @@
         <guid>https://enthalpiex.github.io/en/p/from-ksps/</guid>
         <description>&lt;img src="https://enthalpiex.github.io/en/p/from-ksps/pbfymkz6.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;We can never know when an accident will happen.&lt;/p&gt;
 &lt;p&gt;Today I learned that the KSPS, which has been running for 3 years, was deleted not long ago and there is no backup.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;img src=&#34;https://enthalpiex.github.io/en/p/from-ksps/KSPS_on_Internet_Achieve.png&#34;
-	width=&#34;2521&#34;
-	height=&#34;1596&#34;
-	srcset=&#34;https://enthalpiex.github.io/en/p/from-ksps/KSPS_on_Internet_Achieve_hu6453809836464515201.png 480w, https://enthalpiex.github.io/en/p/from-ksps/KSPS_on_Internet_Achieve_hu10280635576129718677.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;KSPS_on_Internet_Achieve&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;157&#34;
-		data-flex-basis=&#34;379px&#34;
-	
-&gt;&lt;/a&gt;{: .align-right width=&amp;ldquo;300px&amp;rdquo;}&lt;/p&gt;
+&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 300px;&#34;&gt;
+  &lt;img src=&#34;KSPS_on_Internet_Achieve.png&#34; alt=&#34;Shiprock&#34; style=&#34;width: 100%;&#34;&gt;
+&lt;/a&gt;
 &lt;h1 id=&#34;the-ksps&#34;&gt;The KSPS
 &lt;/h1&gt;&lt;p&gt;KSPS stands for &lt;code&gt;Kerbal Space Program Stack&lt;/code&gt;. Its original purpose was to better communicate KSP-related content, including but not limited to works, modules, and some other ideas. Through the support of beautification components, KSPS later became a resource sharing platform based on KSP, with chat room functions.&lt;/p&gt;
 &lt;p&gt;Although KSPS is gone, BLOG will inherit everything from before, optimize, iterate and update continuously.&lt;/p&gt;
