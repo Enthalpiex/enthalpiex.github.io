@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Your English Title</title>
+        <title>Entropiex</title>
         <link>https://enthalpiex.github.io/en/</link>
-        <description>Recent content on Your English Title</description>
+        <description>Recent content on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
@@ -14,6 +14,17 @@
         
         <guid>https://enthalpiex.github.io/en/p/myfirstblog/</guid>
         <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://enthalpiex.github.io/en/about/</link>
+        <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/about/</guid>
+        <description>&lt;p&gt;`&amp;ldquo;Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas?&lt;/p&gt;
+&lt;p&gt;We choose to go to the moon.&lt;/p&gt;
+&lt;p&gt;We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.&amp;quot;`&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Archives</title>
@@ -456,20 +467,6 @@ $$</description>
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>https://enthalpiex.github.io/en/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://enthalpiex.github.io/en/about/</guid>
-        <description>&lt;pre&gt;&lt;code&gt;&amp;quot;Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas?
-
-We choose to go to the moon.
-
-We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-</description>
         </item>
         <item>
         <title>Links</title>
