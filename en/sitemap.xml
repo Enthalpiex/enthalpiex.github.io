@@ -41,18 +41,8 @@
                 href="https://enthalpiex.github.io/en/page/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/categories/</loc>
+    <loc>https://enthalpiex.github.io/en/template/index-1/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://enthalpiex.github.io/en/categories/"
-                />
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/from-ksps/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
@@ -80,19 +70,6 @@
                 href="https://enthalpiex.github.io/en/tags/ksps/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/categories/past/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/categories/past/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://enthalpiex.github.io/en/categories/past/"
-                />
-  </url><url>
     <loc>https://enthalpiex.github.io/en/post/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -117,6 +94,100 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://enthalpiex.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/template/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/efficiency-project/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/categories/efficiency-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/categories/efficiency-project/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/p/obsidian-is-not-enough/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/p/obsidian-is-not-enough/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/tags/time_flip/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/tags/time_flip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/tags/time_flip/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/brand-new-time-flip/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/p/brand-new-time-flip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/p/brand-new-time-flip/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/directivity-system-%CE%B1/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/p/directivity-system-%CE%B1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/p/directivity-system-%CE%B1/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/tags/ds%CE%B1/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/tags/ds%CE%B1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/tags/ds%CE%B1/"
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/archives/</loc>

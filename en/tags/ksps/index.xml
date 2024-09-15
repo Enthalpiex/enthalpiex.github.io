@@ -8,18 +8,26 @@
         <language>en</language>
         <copyright>Entropiex</copyright>
         <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/tags/ksps/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>https://enthalpiex.github.io/en/template/index-1/</link>
+        <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/template/index-1/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>From KSPS</title>
         <link>https://enthalpiex.github.io/en/p/from-ksps/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
         <guid>https://enthalpiex.github.io/en/p/from-ksps/</guid>
-        <description>&lt;img src="https://enthalpiex.github.io/en/p/from-ksps/pbfymkz6.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;We can never know when an accident will happen.&lt;/p&gt;
+        <description>&lt;img src="https://enthalpiex.github.io/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;We can never know when an accident will happen.&lt;/p&gt;
 &lt;p&gt;Today I learned that the KSPS, which has been running for 3 years, was deleted not long ago and there is no backup.&lt;/p&gt;
 &lt;h1 id=&#34;the-ksps&#34;&gt;The KSPS
-&lt;/h1&gt;&lt;p&gt;KSPS stands for &lt;code&gt;Kerbal Space Program Stack&lt;/code&gt;. Its original purpose was to better communicate KSP-related content, including but not limited to works, modules, and some other ideas. Through the support of beautification components, KSPS later became a resource sharing platform based on KSP, with chat room functions.
-&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 300px;&#34;&gt;
-&lt;img src=&#34;KSPS_on_Internet_Achieve.png&#34; alt=&#34;Shiprock&#34; style=&#34;width: 100%;&#34;&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;/h1&gt;&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 200px;&#34;&gt;
+  &lt;img src=&#34;pbfymkz6.png&#34; alt=&#34;Shiprock&#34; style=&#34;width: 100%;&#34;&gt;
+&lt;/a&gt;
+KSPS stands for `Kerbal Space Program Stack`. Its original purpose was to better communicate KSP-related content, including but not limited to works, modules, and some other ideas. Through the support of beautification components, KSPS later became a resource sharing platform based on KSP, with chat room functions.
 &lt;p&gt;Although KSPS is gone, BLOG will inherit everything from before, optimize, iterate and update continuously.&lt;/p&gt;
 </description>
         </item>
