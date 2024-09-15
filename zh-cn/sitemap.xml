@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://enthalpiex.github.io/zh-cn/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/zh-cn/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,11 +54,47 @@
                 href="https://enthalpiex.github.io/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/zh-cn/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://enthalpiex.github.io/zh-cn/p/from-ksps/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/p/from-ksps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/p/from-ksps/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/zh-cn/tags/ksps/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/tags/ksps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/tags/ksps/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/zh-cn/categories/past/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/categories/past/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/categories/past/"
+                />
   </url><url>
     <loc>https://enthalpiex.github.io/zh-cn/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -70,21 +106,18 @@
                 href="https://enthalpiex.github.io/zh-cn/post/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/zh-cn/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://enthalpiex.github.io/zh-cn/tags/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://enthalpiex.github.io/en/categories/test/"
+                href="https://enthalpiex.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/categories/test/"
+                href="https://enthalpiex.github.io/zh-cn/tags/"
                 />
-  </url><url>
-    <loc>https://enthalpiex.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/zh-cn/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -97,18 +130,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://enthalpiex.github.io/zh-cn/archives/"
-                />
-  </url><url>
-    <loc>https://enthalpiex.github.io/zh-cn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://enthalpiex.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/tags/"
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/zh-cn/%E9%93%BE%E6%8E%A5/</loc>
