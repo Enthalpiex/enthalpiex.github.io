@@ -28,6 +28,19 @@
                 href="https://enthalpiex.github.io/en/categories/"
                 />
   </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/daily/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/categories/daily/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/categories/daily/"
+                />
+  </url><url>
     <loc>https://enthalpiex.github.io/en/categories/efficiency-project/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -40,6 +53,9 @@
                 hreflang="en"
                 href="https://enthalpiex.github.io/en/categories/efficiency-project/"
                 />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/new-things-todo/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/post/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
@@ -117,19 +133,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://enthalpiex.github.io/en/page/"
-                />
-  </url><url>
-    <loc>https://enthalpiex.github.io/en/categories/daily/</loc>
-    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/categories/daily/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://enthalpiex.github.io/en/categories/daily/"
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/time-slice-the-beginning-of-everything/</loc>
