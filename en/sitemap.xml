@@ -119,8 +119,47 @@
                 href="https://enthalpiex.github.io/en/page/"
                 />
   </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/daily/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/categories/daily/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/categories/daily/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/time-slice-the-beginning-of-everything/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/p/time-slice-the-beginning-of-everything/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/p/time-slice-the-beginning-of-everything/"
+                />
+  </url><url>
     <loc>https://enthalpiex.github.io/en/template/index-1/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/about-site/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/categories/about-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/categories/about-site/"
+                />
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/from-ksps/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
@@ -148,21 +187,21 @@
                 href="https://enthalpiex.github.io/en/tags/ksps/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/template/</loc>
+    <loc>https://enthalpiex.github.io/en/p/stop-sync/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://enthalpiex.github.io/en/categories/daily/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/categories/daily/"
+                href="https://enthalpiex.github.io/zh-cn/p/stop-sync/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://enthalpiex.github.io/en/categories/daily/"
+                href="https://enthalpiex.github.io/en/p/stop-sync/"
                 />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/template/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/starfield/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
@@ -241,6 +280,8 @@
                 hreflang="en"
                 href="https://enthalpiex.github.io/en/archives/"
                 />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/eridanus-aviation-industry/</loc>
   </url><url>
     <loc>https://enthalpiex.github.io/en/links/</loc>
     <xhtml:link
