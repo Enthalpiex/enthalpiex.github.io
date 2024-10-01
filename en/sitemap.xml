@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://enthalpiex.github.io/en/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/categories/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/categories/daily/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -40,6 +40,22 @@
                 hreflang="en"
                 href="https://enthalpiex.github.io/en/categories/daily/"
                 />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/post/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/post/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/prior-probability-of-life/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/categories/efficiency-project/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
@@ -56,19 +72,6 @@
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/new-things-todo/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://enthalpiex.github.io/en/post/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://enthalpiex.github.io/en/post/"
-                />
   </url><url>
     <loc>https://enthalpiex.github.io/en/tags/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
@@ -110,7 +113,7 @@
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/about/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-16T13:01:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -123,7 +126,7 @@
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/page/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-16T13:01:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
