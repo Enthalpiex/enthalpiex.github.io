@@ -153,7 +153,7 @@
       &lt;tr&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Month&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Things&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Completion Degree&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real Time&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real CD&lt;/strong&gt;&lt;/th&gt;
@@ -163,7 +163,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Jan.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Course&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;44.76H (537.12bar)&lt;/td&gt;
+          &lt;td&gt;44.76H (537.12bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;18% of total&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -171,7 +171,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;DIS&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;15H (180bar)&lt;/td&gt;
+          &lt;td&gt;15H (180bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;5%&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -179,7 +179,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Maths 10&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;10H (120bar)&lt;/td&gt;
+          &lt;td&gt;10H (120bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;100%&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -187,7 +187,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;IELTS 7.5&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;115H (1380bar)&lt;/td&gt;
+          &lt;td&gt;115H (1380bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;29%&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -195,7 +195,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;C#&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;40H (480bar)&lt;/td&gt;
+          &lt;td&gt;40H (480bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;17%&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -203,7 +203,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Exercise&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;12H (144bar)&lt;/td&gt;
+          &lt;td&gt;12H (144bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;/&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -211,7 +211,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Violin&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8H (96bar)&lt;/td&gt;
+          &lt;td&gt;8H (96bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;8.33%&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -219,7 +219,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;GOS&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;4H (48bar)&lt;/td&gt;
+          &lt;td&gt;4H (48bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;/&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -227,7 +227,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;ALL&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;248.76H (2985.2bar)&lt;/td&gt;
+          &lt;td&gt;248.76H (2985.2bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;100.00%&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -241,7 +241,7 @@
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Month&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Things&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Completion Degree&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real CD&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real Time&lt;/strong&gt;&lt;/th&gt;
       &lt;/tr&gt;
@@ -251,7 +251,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Feb.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Course&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;15% of total&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;45.45H (545.34bar)&lt;/td&gt;
+          &lt;td&gt;45.45H (545.34bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -259,7 +259,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;DIS&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;5%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;15H (180bar)&lt;/td&gt;
+          &lt;td&gt;15H (180bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -267,7 +267,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Maths 10&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;8%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;24H (288bar)&lt;/td&gt;
+          &lt;td&gt;24H (288bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -275,7 +275,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;IELTS 7.5&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;30%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;90H (1080bar)&lt;/td&gt;
+          &lt;td&gt;90H (1080bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -283,7 +283,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;C#&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;10%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;30H (360bar)&lt;/td&gt;
+          &lt;td&gt;30H (360bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -291,7 +291,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Modeling&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;3%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;10H (120bar)&lt;/td&gt;
+          &lt;td&gt;10H (120bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -299,7 +299,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;AMC&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;13%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;40H (480bar)&lt;/td&gt;
+          &lt;td&gt;40H (480bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -307,7 +307,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Exercise&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;8%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;24H (288bar)&lt;/td&gt;
+          &lt;td&gt;24H (288bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -315,7 +315,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Violin&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;3%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8H (96bar)&lt;/td&gt;
+          &lt;td&gt;8H (96bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -323,7 +323,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Gaming&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;5%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;16H (192bar)&lt;/td&gt;
+          &lt;td&gt;16H (192bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -331,7 +331,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;ALL&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;100%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;302.45H (3629.4bar)&lt;/td&gt;
+          &lt;td&gt;302.45H (3629.4bar)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -342,7 +342,7 @@
       &lt;tr&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Month&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Things&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Completion Degree&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real Time&lt;/strong&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real CD&lt;/strong&gt;&lt;/th&gt;
@@ -352,7 +352,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Feb.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -360,7 +360,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Mar.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -368,7 +368,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Apr.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -376,7 +376,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;May.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -384,7 +384,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Jun.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -392,7 +392,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Jul.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -400,7 +400,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Aug.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -408,7 +408,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Sep.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -416,7 +416,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Oct.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -424,7 +424,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Nov.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -432,15 +432,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Dec.&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -448,7 +440,15 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
