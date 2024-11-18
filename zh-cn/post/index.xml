@@ -335,7 +335,8 @@ Saturday
 
 Sunday
 7:00-22:25
-15.42H&lt;/code&gt;&lt;/pre&gt;
+15.42H
+&lt;/code&gt;&lt;/pre&gt;
 </description>
         </item>
         <item>
@@ -658,7 +659,8 @@ Sunday
 Clock用于记录时间段，省略冒号。18:00-19:00记为1800-1900
 Break表示中途被打断次数
 Efficiency评级根据实际情况和理想效率进行对比，范围0%-200%，一般在50%-100%，简写为一位小数，如8.5表示85%
-Work栏需要放置成果内容，或者能体现成果的链接/照片，如果未完成需要标注完成的百分比或者完成的量，比如100词&lt;/code&gt;&lt;/pre&gt;
+Work栏需要放置成果内容，或者能体现成果的链接/照片，如果未完成需要标注完成的百分比或者完成的量，比如100词
+&lt;/code&gt;&lt;/pre&gt;
 </description>
         </item>
         <item>
