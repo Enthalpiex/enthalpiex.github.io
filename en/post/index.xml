@@ -7,8 +7,20 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>What makes action hard?</title>
+        <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Journal 1</title>
+        <link>https://enthalpiex.github.io/en/p/journal-1/</link>
+        <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/journal-1/</guid>
+        <description>&lt;p&gt;Per Aspera Ad Astra, which refers &amp;ldquo;Through suffering to the stars&amp;rdquo;. The specific object of suffering here is still a mystery to me, but it may be a little clearer now.&lt;/p&gt;
+&lt;p&gt;My favorite Chinese translation of this sentence is &amp;ldquo;历尽艰辛，终抵群星&amp;rdquo; (After going through all the hardships, one will finally reach the stars). The brilliance of the second half is easy to understand, but the first half is too vague. What is suffering refers to? Make the right choice at the right time, sacrifice the minor to save the major in critical moment, doing things that are useful but painful, or trying to force progress when motivation is weak?&lt;/p&gt;
+&lt;p&gt;Isolate pain may be a great method to avoid it influence the motivation and energy, but what’s interesting is that the isolation method itself also consumes energy. Is this a loss-making exercise or a way to save the greater good?&lt;/p&gt;
+&lt;p&gt;Instead, I believe that the final answer will be complex, because of this complicated world.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>What Makes Action Hard?</title>
         <link>https://enthalpiex.github.io/en/p/what-makes-action-hard/</link>
         <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
         
@@ -1200,11 +1212,11 @@ $$&lt;p&gt;
 </description>
         </item>
         <item>
-        <title>Obsidian is not ENOUGH</title>
-        <link>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</link>
+        <title>Obsidian is Not Enough...</title>
+        <link>https://enthalpiex.github.io/en/p/obsidian-is-not-enough.../</link>
         <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</guid>
+        <guid>https://enthalpiex.github.io/en/p/obsidian-is-not-enough.../</guid>
         <description>&lt;p&gt;This can be said to be the worst month. Although DSα was good at first, the complexity of the table and the tediousness of the calculations made me spend too much time on this &amp;ldquo;efficiency system&amp;rdquo;, wasting a lot of time without any actual results. The program that automatically calculates time has no practical effect, and I have not found a suitable way to summarize and process the large amount of data generated every day.&lt;/p&gt;
 &lt;p&gt;Rebuilding DSα on Obsidian has indeed simplified a lot of content, but it still cannot solve the fundamental problem, that is, it is not intuitive enough. The limitations of the table and the disappointing functions of Obsidian mind mapping software forced me to choose other software to build this system.&lt;/p&gt;
 &lt;p&gt;Currently, I am migrating it to Simplemind Pro, a well-rated mind mapping software. The completely free configuration and nodes can free the original content from the table, because the best choice is &amp;ldquo;display everything on a huge plane&amp;rdquo;, what you see is what you get.&lt;/p&gt;
