@@ -7,20 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/categories/about-site/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>STOP SYNC</title>
-        <link>https://enthalpiex.github.io/en/p/stop-sync/</link>
-        <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://enthalpiex.github.io/en/p/stop-sync/</guid>
-        <description>&lt;p&gt;I have decided to end the simultaneous update of Chinese and English content.&lt;/p&gt;
-&lt;p&gt;The latest content and changes will only be published on the English page. I will consider synchronization if I have time.&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/categories/about-site/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Flow X13 Timespy World Record</title>
         <link>https://enthalpiex.github.io/en/p/flow-x13-timespy-world-record/</link>
-        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>https://enthalpiex.github.io/en/p/flow-x13-timespy-world-record/</guid>
         <description>&lt;img src="https://enthalpiex.github.io/en/p/flow-x13-timespy-world-record/WR_1.png" alt="Featured image of post Flow X13 Timespy World Record" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
@@ -160,6 +150,16 @@
 &lt;p&gt;&lt;strong&gt;Even though this post is intended to improve performance without any modifications, to mitigate this situation, I strongly recommend upgrading to high-performance thermal putty, shim components, or improve thermal contact with the bottom panel.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;When improving the bottom panel contact make sure you use an additional heat sink to remove the heat from the baseplate. If you don&amp;rsquo;t do this then this modification will have little effect other than making the baseplate hotter.&lt;/p&gt;
 &lt;p&gt;After testing, when the Timespy score of the unmodified Flow X13 was 10,000 points (±100), the stress test stability was only 90%.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>STOP SYNC</title>
+        <link>https://enthalpiex.github.io/en/p/stop-sync/</link>
+        <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/stop-sync/</guid>
+        <description>&lt;p&gt;I have decided to end the simultaneous update of Chinese and English content.&lt;/p&gt;
+&lt;p&gt;The latest content and changes will only be published on the English page. I will consider synchronization if I have time.&lt;/p&gt;
 </description>
         </item>
         
