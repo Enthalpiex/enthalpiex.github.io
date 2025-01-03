@@ -7,7 +7,32 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Future</title>
+        <link>https://enthalpiex.github.io/en/p/future/</link>
+        <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/future/</guid>
+        <description>&lt;p&gt;It&amp;rsquo;s January again! Happy new year to you all guys!&lt;/p&gt;
+&lt;p&gt;Today&amp;rsquo;s electronic products are thinner and lighter than before, but they are still very heavy, especially those laptops with good performance that weigh more than one kilogram. Today’s quantum computers are larger and heavier than traditional computers—they are housed in specific rooms and run.&lt;/p&gt;
+&lt;p&gt;This prompts us to ask: what kinds of products could define the future? Can we experience the same level of excitement as we did with groundbreaking releases like the MacBook or the iPhone X?&lt;/p&gt;
+&lt;p&gt;One promising candidate is AR glasses powered by directional beam charging technology. Currently, most AR glasses fail to replace smartphones, primarily due to their weight, with bulky batteries being the main culprit. Since this, if we can cancel the battery and use a power bank to charge, also replace the wire to wireless RF (radio frequency) technology, such as millimeter-wave directional transmission, all above problems will be solved.&lt;/p&gt;
+&lt;p&gt;The biggest challenges are: heating problem, high energy consumption ratio chip and High-resolution transparent display.&lt;/p&gt;
+&lt;p&gt;The same technology has the potential to revolutionize aerospace. Traditional space elevators are constrained by material limitations. By eliminating these materials and instead using ion thrusters with vector control to maintain a fixed orbit, coupled with wireless RF technology for power transmission, we could bypass these constraints entirely.&lt;/p&gt;
+&lt;p&gt;This would pave the way for a low-Earth orbit transportation method far more efficient than traditional rockets.&lt;/p&gt;
+&lt;p&gt;The future of technology is brimming with possibilities, although we feel like the technological progress has gradually slowed down or even stalled, but in fact there are still many conceptual technologies that have not been widely used.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Pre-Release Test</title>
+        <link>https://enthalpiex.github.io/en/p/pre-release-test/</link>
+        <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/pre-release-test/</guid>
+        <description>&lt;p&gt;Hello world!&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Journal 1</title>
         <link>https://enthalpiex.github.io/en/p/journal-1/</link>
         <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
@@ -1212,11 +1237,11 @@ $$&lt;p&gt;
 </description>
         </item>
         <item>
-        <title>Obsidian is Not Enough...</title>
-        <link>https://enthalpiex.github.io/en/p/obsidian-is-not-enough.../</link>
+        <title>Obsidian is Not Enough</title>
+        <link>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</link>
         <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://enthalpiex.github.io/en/p/obsidian-is-not-enough.../</guid>
+        <guid>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</guid>
         <description>&lt;p&gt;This can be said to be the worst month. Although DSα was good at first, the complexity of the table and the tediousness of the calculations made me spend too much time on this &amp;ldquo;efficiency system&amp;rdquo;, wasting a lot of time without any actual results. The program that automatically calculates time has no practical effect, and I have not found a suitable way to summarize and process the large amount of data generated every day.&lt;/p&gt;
 &lt;p&gt;Rebuilding DSα on Obsidian has indeed simplified a lot of content, but it still cannot solve the fundamental problem, that is, it is not intuitive enough. The limitations of the table and the disappointing functions of Obsidian mind mapping software forced me to choose other software to build this system.&lt;/p&gt;
 &lt;p&gt;Currently, I am migrating it to Simplemind Pro, a well-rated mind mapping software. The completely free configuration and nodes can free the original content from the table, because the best choice is &amp;ldquo;display everything on a huge plane&amp;rdquo;, what you see is what you get.&lt;/p&gt;

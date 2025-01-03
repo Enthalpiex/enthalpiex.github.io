@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://enthalpiex.github.io/en/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -15,21 +15,8 @@
                 href="https://enthalpiex.github.io/en/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/post/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://enthalpiex.github.io/en/post/"
-                />
-  </url><url>
     <loc>https://enthalpiex.github.io/en/categories/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -42,7 +29,7 @@
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/categories/daily/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -54,14 +41,27 @@
                 href="https://enthalpiex.github.io/en/categories/daily/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/tags/journal/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>https://enthalpiex.github.io/en/p/future/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://enthalpiex.github.io/en/p/journal-1/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <loc>https://enthalpiex.github.io/en/tags/journal/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/post/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/post/"
+                />
   </url><url>
     <loc>https://enthalpiex.github.io/en/tags/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -72,6 +72,25 @@
                 hreflang="en"
                 href="https://enthalpiex.github.io/en/tags/"
                 />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/about-site/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/categories/about-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/categories/about-site/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/pre-release-test/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/journal-1/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/what-makes-action-hard/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
@@ -169,19 +188,6 @@
     <loc>https://enthalpiex.github.io/en/template/index-1/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://enthalpiex.github.io/en/categories/about-site/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/categories/about-site/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://enthalpiex.github.io/en/categories/about-site/"
-                />
-  </url><url>
     <loc>https://enthalpiex.github.io/en/p/from-ksps/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -249,17 +255,17 @@
                 href="https://enthalpiex.github.io/en/p/starfield/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/p/obsidian-is-not-enough.../</loc>
+    <loc>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/p/obsidian-is-not-enough.../"
+                href="https://enthalpiex.github.io/zh-cn/p/obsidian-is-not-enough/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://enthalpiex.github.io/en/p/obsidian-is-not-enough.../"
+                href="https://enthalpiex.github.io/en/p/obsidian-is-not-enough/"
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/brand-new-time-flip/</loc>

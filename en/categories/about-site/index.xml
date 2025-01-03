@@ -7,7 +7,16 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/categories/about-site/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/categories/about-site/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Pre-Release Test</title>
+        <link>https://enthalpiex.github.io/en/p/pre-release-test/</link>
+        <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/pre-release-test/</guid>
+        <description>&lt;p&gt;Hello world!&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>STOP SYNC</title>
         <link>https://enthalpiex.github.io/en/p/stop-sync/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
