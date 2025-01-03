@@ -73,22 +73,6 @@
                 href="https://enthalpiex.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/categories/about-site/</loc>
-    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/categories/about-site/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://enthalpiex.github.io/en/categories/about-site/"
-                />
-  </url><url>
-    <loc>https://enthalpiex.github.io/en/p/pre-release-test/</loc>
-    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://enthalpiex.github.io/en/p/journal-1/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -187,6 +171,19 @@
   </url><url>
     <loc>https://enthalpiex.github.io/en/template/index-1/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/about-site/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/categories/about-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/categories/about-site/"
+                />
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/from-ksps/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
@@ -306,6 +303,12 @@
                 hreflang="en"
                 href="https://enthalpiex.github.io/en/tags/ds%CE%B1/"
                 />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/tags/electronics/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/flow-x13-timespy-world-record/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
