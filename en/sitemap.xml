@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://enthalpiex.github.io/en/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/categories/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -28,17 +28,27 @@
                 href="https://enthalpiex.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/tags/electronics/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <loc>https://enthalpiex.github.io/en/categories/daily/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/categories/daily/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/categories/daily/"
+                />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/p/embedded-systems-engineering/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <loc>https://enthalpiex.github.io/en/p/intj-born-achiever-and-loser/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://enthalpiex.github.io/en/categories/future/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <loc>https://enthalpiex.github.io/en/tags/journal/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/post/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -51,7 +61,7 @@
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/tags/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -63,23 +73,25 @@
                 href="https://enthalpiex.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/categories/daily/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/categories/daily/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://enthalpiex.github.io/en/categories/daily/"
-                />
+    <loc>https://enthalpiex.github.io/en/p/asi-2030/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/future/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/occams-razor-and-bayesianism/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/world-trends-and-crisis-study/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/tags/electronics/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/p/embedded-systems-engineering/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/future/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://enthalpiex.github.io/en/tags/journal/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/categories/about-site/</loc>
