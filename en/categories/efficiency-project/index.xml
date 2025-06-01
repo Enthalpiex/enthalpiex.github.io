@@ -339,7 +339,7 @@ Sunday
 &lt;p&gt;Lunch20min&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;dinner30min&lt;/p&gt;
+&lt;p&gt;Dinner30min&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Wash10min&lt;/p&gt;
@@ -351,7 +351,8 @@ Sunday
 &lt;p&gt;&lt;strong&gt;600-730 (1.50H (18bar))&lt;/strong&gt;
 &lt;strong&gt;1510-1800 (2.83H (34bar))&lt;/strong&gt;
 &lt;strong&gt;1830-2200 (3.50H (42bar))&lt;/strong&gt;
-&lt;strong&gt;7.83H (94bar)&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;7.83H (94bar)&lt;/strong&gt;
+%%&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;progress-plan&#34;&gt;Progress plan
@@ -395,7 +396,8 @@ Sunday
 &lt;em&gt;AvailableTime: 248.4H (2981bar)&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;All: 1831.56H (21983bar)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All: 1831.56H (21983bar)&lt;/strong&gt;
+%%&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>

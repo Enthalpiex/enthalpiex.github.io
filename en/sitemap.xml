@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://enthalpiex.github.io/en/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/categories/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -28,11 +28,27 @@
                 href="https://enthalpiex.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://enthalpiex.github.io/en/categories/many-worlds-interpretation/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+    <loc>https://enthalpiex.github.io/en/p/cooperative-education/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/daily/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://enthalpiex.github.io/zh-cn/categories/daily/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://enthalpiex.github.io/en/categories/daily/"
+                />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/tags/journal/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/post/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -45,7 +61,7 @@
                 />
   </url><url>
     <loc>https://enthalpiex.github.io/en/tags/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -56,6 +72,9 @@
                 hreflang="en"
                 href="https://enthalpiex.github.io/en/tags/"
                 />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/categories/many-worlds-interpretation/</loc>
+    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/time-travel-in-mwi/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
@@ -168,22 +187,6 @@
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/false-positives-in-mwi-navigation/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://enthalpiex.github.io/en/categories/daily/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://enthalpiex.github.io/zh-cn/categories/daily/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://enthalpiex.github.io/en/categories/daily/"
-                />
-  </url><url>
-    <loc>https://enthalpiex.github.io/en/tags/journal/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enthalpiex.github.io/en/p/the-boring-mbti-system/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
@@ -469,6 +472,8 @@
                 hreflang="en"
                 href="https://enthalpiex.github.io/en/archives/"
                 />
+  </url><url>
+    <loc>https://enthalpiex.github.io/en/atur/</loc>
   </url><url>
     <loc>https://enthalpiex.github.io/en/categories/about-site/drawing-2024-11-01-10.33.32.excalidraw/</loc>
   </url><url>

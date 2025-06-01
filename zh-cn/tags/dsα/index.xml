@@ -62,7 +62,7 @@
           &lt;td&gt;/ 100%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;雅思&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;IELTS&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -76,7 +76,7 @@
           &lt;td&gt;/ 100%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;编写软件&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Coding&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -90,7 +90,7 @@
           &lt;td&gt;/ 100%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;运动&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Activity&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -104,7 +104,7 @@
           &lt;td&gt;/ 100%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;练琴&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Music&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -163,6 +163,101 @@
 &lt;/table&gt;
 &lt;pre&gt;&lt;code&gt;增加了一个Efficiency栏用于评估效率
 &lt;/code&gt;&lt;/pre&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Activity&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Mon.&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Tue.&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Wed.&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Thu.&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Fri.&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Sat.&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Sun.&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Wake up&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;700&lt;/td&gt;
+          &lt;td&gt;800&lt;/td&gt;
+          &lt;td&gt;840&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Morning Routine&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;735-744&lt;/td&gt;
+          &lt;td&gt;836-844&lt;/td&gt;
+          &lt;td&gt;952&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Breakfast&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;840-842&lt;/td&gt;
+          &lt;td&gt;844-900&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Lunch&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;1200-1220&lt;/td&gt;
+          &lt;td&gt;1206-1249&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Dinner&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;1812-1840&lt;/td&gt;
+          &lt;td&gt;1755-1820&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Evening Routine&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;2212-2219&lt;/td&gt;
+          &lt;td&gt;2250-2257&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Sleep&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+          &lt;td&gt;2225&lt;/td&gt;
+          &lt;td&gt;2259&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;%%&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -249,8 +344,8 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;pre&gt;&lt;code&gt;记录时间
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;%%
+记录时间&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;monday&#34;&gt;Monday
 &lt;/h3&gt;&lt;table&gt;
@@ -339,7 +434,7 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         <guid>https://enthalpiex.github.io/zh-cn/p/ds%CE%B1-update-0109/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 吃药&lt;/li&gt;
-&lt;li&gt;Jan.9 通过增加显眼提示解决&lt;/li&gt;
+&lt;li&gt;Jan.9 增加显眼提示&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;其它内容-未记录&#34;&gt;其它内容-未记录
 &lt;/h3&gt;&lt;ul&gt;
@@ -350,7 +445,7 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 部分内容未得到遵守&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; DirectivityHelper 2号功能Bug&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 效率系统打分的不可靠性&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 主动信息获取计划&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 主动信息获取&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 阅读时间&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 降低试错成本&lt;/li&gt;
 &lt;/ul&gt;
@@ -364,7 +459,7 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         <guid>https://enthalpiex.github.io/zh-cn/p/ds%CE%B1-update-0108/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; DirectivityHelper 跨小时计算Bug&lt;/li&gt;
-&lt;li&gt;Jan.8 通过优化代码解决&lt;/li&gt;
+&lt;li&gt;Jan.8 优化代码&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
@@ -379,7 +474,7 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 表格系统难以使用&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 效率没有得到直观体现&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 统计不方便&lt;/li&gt;
-&lt;li&gt;Jan.6 通过删减和重置表格与任务安排解决&lt;/li&gt;
+&lt;li&gt;Jan.6 删减和重置表格与任务安排&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
@@ -394,13 +489,13 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
 &lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 表格系统不够简洁好用，项目过多，过于复杂&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Jan.5 通过改良表格解决&lt;/p&gt;
+&lt;p&gt;Jan.5 改良表格&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 视力健康问题&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Jan.5 通过增加自动改变屏幕色温和休息提醒解决&lt;/p&gt;
+&lt;p&gt;Jan.5 增加自动改变屏幕色温和休息提醒&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -413,7 +508,7 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         <guid>https://enthalpiex.github.io/zh-cn/p/ds%CE%B1-update-0104/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 表格数据计算麻烦&lt;/li&gt;
-&lt;li&gt;Jan.4 通过DirectivityHelper解决&lt;/li&gt;
+&lt;li&gt;Jan.4 DirectivityHelper 更新&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/DirectivitySystem&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Enthalpiex/DirectivitySystem: Something interesting&amp;hellip;&amp;hellip; (github.com)&lt;/a&gt;&lt;/p&gt;
@@ -511,7 +606,8 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
 &lt;p&gt;&lt;strong&gt;600-730 (1.50H (18bar))&lt;/strong&gt;
 &lt;strong&gt;1510-1800 (2.83H (34bar))&lt;/strong&gt;
 &lt;strong&gt;1830-2200 (3.50H (42bar))&lt;/strong&gt;
-&lt;strong&gt;7.83H (94bar)&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;7.83H (94bar)&lt;/strong&gt;
+%%&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;进度规划&#34;&gt;进度规划
@@ -555,7 +651,8 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
 &lt;em&gt;AvailableTime: 248.4H (2981bar)&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;All: 1831.56H (21983bar)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All: 1831.56H (21983bar)&lt;/strong&gt;
+%%&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>

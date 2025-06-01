@@ -7,7 +7,230 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Cooperative Education</title>
+        <link>https://enthalpiex.github.io/en/p/cooperative-education/</link>
+        <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/cooperative-education/</guid>
+        <description>&lt;img src="https://enthalpiex.github.io/en/p/cooperative-education/ready-or-not-logo-squad-black-and-white.png" alt="Featured image of post Cooperative Education" /&gt;&lt;p&gt;As a fan of hardcore simulation games, I have dabbled in simulation games in various fields, including FPS games. However, as we can see, hardcore simulation FPS is very different from mainstream FPS, so I tend to divide all FPS into three types: hardcore, semi-simulation and entertainment. The first type of hardcore includes Arma, Squad, Ready or Not, Escape from Tarkov, Ground Branch and other works, and the second type of semi-simulation is Insurgency: Sandstorm, Battlefield, DayZ and so on. Entertainment is relatively broad, including Call of Duty, Apex Legends, Counter-Strike, Fortnite and so on.&lt;/p&gt;
+&lt;p&gt;Through the level of simulation, we can know the degree of &amp;ldquo;hardcore&amp;rdquo;.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Dimension&lt;/th&gt;
+          &lt;th&gt;Judgment criteria&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Damage model/TTK&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;One or two shots kill, no blood recovery; wound type segmentation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Ballistic physics&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;There are drop, wind deflection, penetration, initial velocity, bullet type differences, etc.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Operation complexity&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Switch safety, pull bolt, manually load magazine, check ammunition&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Modification freedom&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Generally high, including gun modification details and customized full body equipment&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Interface/information&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;No HUD, no crosshairs, no radar&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Tactical dependence&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Strong reliance on teamwork, voice communication, tactical coordination&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Real rules&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Military communication, medical, supply, logistics system&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Map&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Huge map (strategic) or small map (tactical), always realistic&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Death penalty&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Zero cost or high cost&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Relatively speaking, the more hardcore the game, the fewer players there are, and the higher the level required of the developer.&lt;/p&gt;
+&lt;p&gt;Death penalty, is a big difference between hardcore FPS games. Some of them (e.x. Tarkov) set up a extremely serious penalty, but some have almost no penalty (e.x. RoN).&lt;/p&gt;
+&lt;p&gt;Now there is a interesting topic: Despite hardcore FPS is difficult, why do people still like to play it?&lt;/p&gt;
+&lt;p&gt;Obviously, there are reasons for this. From a general perspective, it includes the following factors:&lt;/p&gt;
+&lt;h3 id=&#34;immersion&#34;&gt;Immersion
+&lt;/h3&gt;&lt;p&gt;Whether it is a visual work or a novel, immersion has always been an important evaluation dimension. Novels and visual works often use gorgeous pictures and texts to attract the audience, while hardcore FPS games go the opposite way, bringing an immersive feeling by simulating the real environment as much as possible.&lt;/p&gt;
+&lt;p&gt;The pursuit of realistic gameplay is also about the real environment. This will make the modeling and rendering effects of hardcore FPS much higher than those of mainstream FPS. The more realistic reflections and volumetric clouds/fog can sometimes be comparable to 3A works.&lt;/p&gt;
+&lt;h3 id=&#34;teamwork--communication&#34;&gt;Teamwork &amp;amp; Communication
+&lt;/h3&gt;&lt;p&gt;Unlike twitchy shooters where you can solo carry, hardcore FPS always demands cooperation. You can be John Wick, but it&amp;rsquo;s almost impossible. In Ready Or Not, solo CQB is extremely dangerous and no one would try or recommend it in real life.&lt;/p&gt;
+&lt;h3 id=&#34;skill-learning&#34;&gt;Skill Learning
+&lt;/h3&gt;&lt;p&gt;Hardcore FPS rewards system for correct knowledge application, patience and discipline, not just quick reaction, not gun. Learning bullet trajectory, equipment management, tactical movements and communication cooperation management does not provide any rewards in itself, but by using these to successfully complete the mission, you will know what is useful.&lt;/p&gt;
+&lt;h2 id=&#34;take-ready-or-not-as-an-example&#34;&gt;Take Ready or Not as an example
+&lt;/h2&gt;&lt;p&gt;Hardcore FPS games often have RPG elements, and RoN is particularly good at this.
+In RoN, a few bullets = death. One clean shot can end you, without health regen. You can get crippled, bleed out, or go down instantly.&lt;/p&gt;
+&lt;p&gt;This makes every action must meet the standard, and rushing out of the cover directly is asking for trouble. The game does not reward recklessness, nor does it deduct points for taking extra time. Caution is often the best, even if it takes more time. It is stressful, but it feels real. Surviving a mission with zero casualties feels rewarding.&lt;/p&gt;
+&lt;p&gt;In RoN, bullet penetration is real. Cover is not always safe. Your 9mm bullet will not penetrate wood like a 5.56. Walls can be full of holes and you may not know which hole a suspect is shooting from. If you don&amp;rsquo;t crouch down and hold your shield, your shield will shake and you will take damage. There is no sliding, jumping or even running here. In real life, no one wants the sound of running footsteps to alert the suspect to the arrival of SWAT.&lt;/p&gt;
+&lt;p&gt;In RoN, there is no gear loss like in Tarkov, you get an F for failing a mission, and losing a teammate means a lower score. Unexpected deaths are stressful. It is the ultimate realization of &amp;ldquo;tactical fantasy&amp;rdquo;. Perfect coordination, precise point shooting, correct use of tactical weapons, clearing suspects without injury and completing the mission itself carries a sense of professionalism and coolness.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Features&lt;/th&gt;
+          &lt;th&gt;Mainstream FPS&lt;/th&gt;
+          &lt;th&gt;Ready or Not&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Kill to win / Win the game&lt;/td&gt;
+          &lt;td&gt;Complete the mission / Rescue the hostages / Clear the target&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Death penalty&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Drop rank&lt;/td&gt;
+          &lt;td&gt;Mission failure&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Player behavior&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Reaction, luck, shooting&lt;/td&gt;
+          &lt;td&gt;Tactics, judgment, coordination&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Atmosphere&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Exciting but chaotic&lt;/td&gt;
+          &lt;td&gt;Calm, depressing, realistic&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;AI enemies&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Stupid&lt;/td&gt;
+          &lt;td&gt;Relatively smart + deceptive &lt;br&gt;(fake surrender, attack from behind)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Gameplay&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Fast pace&lt;br&gt;restart after the game&lt;/td&gt;
+          &lt;td&gt;Slow pace&lt;br&gt;focus on process and details&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;In summary, the charm of RoN lies in that it forces you to restrain, learn, bear the consequences, learn the practices of real SWAT teams, understand the importance of cover, and truly learn CQB.&lt;/p&gt;
+&lt;p&gt;The game is not just a simulation of SWAT, but it trains players to become SWAT and understand the thinking of SWAT when performing tasks. Players start to find cover as much as possible, instead of &amp;ldquo;gunning&amp;rdquo; or blindly entering open areas, start to prioritize controlling the perspective, instead of blindly pushing the map, and learn how to let teammates cover themselves, instead of being a lone wolf hero. Skilled and realistic operations are accumulated through repeated officer downs.&lt;/p&gt;
+&lt;p&gt;Generally speaking, the community environment of this type of tactical shooting/hardcore FPS games is more equal and friendly, there is generally no ranking system, everyone respects each other more, even if the skills are not good, they will only say that you are unprofessional. It is not like the mainstream FPS where the high rankings look down on the low ones and scold teammates for mistakes. In theory, the death penalty of the former is higher. Why can&amp;rsquo;t mainstream FPS players accept failure?&lt;/p&gt;
+&lt;p&gt;Obviously, we can find that in hardcore FPS, death is often quick and fatal, but the game rhythm is slow, and cooperation is more important than individual performance. A mistake often leads to the failure of the entire team. Failure is serious, but also very natural. Players understand that anyone can be killed, not who is too bad. &amp;ldquo;Teamwork is more important than individual skills&amp;rdquo; is reflected here.&lt;/p&gt;
+&lt;p&gt;In mainstream FPS, the fast-paced environment, leaderboards and quantitative indicators such as KDA are very prominent. Failure is seen as a lack of personal ability, and teammates are prone to accusing or dragging the team down. This is because in a battle, a highly skilled person can defeat others 1v10 through various &amp;ldquo;skills&amp;rdquo; and techniques. In this type of game, there are no Rules of Engagement, but Rules of Elimination. Recklessness is rewarded, and caution is punished.&lt;/p&gt;
+&lt;p&gt;The difference between the two communities is also huge. Hardcore FPS game communities are usually dominated by players who like military simulations and teamwork. They emphasize &amp;ldquo;respecting tactical processes&amp;rdquo; and &amp;ldquo;learning and communication&amp;rdquo;. Poor skills can also be seen as a need for practice, and the community is more inclined to guidance/discussion rather than malicious attacks.&lt;/p&gt;
+&lt;p&gt;The mainstream FPS community has a larger player base with varying levels of skill. Rankings and popularity make the competition more stressful, and players are more likely to be anxious or emotional. The language environment is more likely to become a battlefield because the game rhythm is intense and the emotions fluctuate greatly.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Factors&lt;/th&gt;
+          &lt;th&gt;Tactical shooting games&lt;/th&gt;
+          &lt;th&gt;Mainstream FPS&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Rhythm and failure&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Slow pace, high cost of failure, team responsibility&lt;/td&gt;
+          &lt;td&gt;Fast pace, high pressure on individual performance&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Community atmosphere&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Cooperation first&lt;/td&gt;
+          &lt;td&gt;Intense competition, obvious comparison&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Ranking influence&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;No or weak ranking, reduced comparison&lt;/td&gt;
+          &lt;td&gt;Kill quantification, high pressure on ranking&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Failure acceptance&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Failure is a learning process&lt;/td&gt;
+          &lt;td&gt;Failure is seen as a lack of ability&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Player screening&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Like immersion and rigor&lt;/td&gt;
+          &lt;td&gt;Diversity, complex mentality&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;idealized-education-system&#34;&gt;Idealized Education System
+&lt;/h2&gt;&lt;p&gt;Inspired by hardcore FPS, we found that increasing difficulty and removing competition will not repel players, but will make players actively learn and research, stimulating the motivation of independent learning. So how can we change the education system?&lt;/p&gt;
+&lt;p&gt;The core concept is that students are not trained to &amp;ldquo;win the game&amp;rdquo; (grades), but to train like athletes. Not only pass, but also solve real problems and gain the ability to solve problems.&lt;/p&gt;
+&lt;h3 id=&#34;first-step-exam-changes&#34;&gt;First step: Exam Changes
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Multiple exams are allowed, multiple attempts are allowed, no time limit.&lt;/strong&gt;
+In fact, the role of rankings is just to increase pressure, and the so-called positive effect is just to promote the superiority of those who rank high and to discourage those who rank low. This is why they need to be removed in the first place. A more open evaluation method can reduce the focus on grades and focus more on something truly valuable. The penalties for poor test scores should be weakened, and more time should be spent on reviewing and retrying.&lt;/p&gt;
+&lt;h3 id=&#34;second-step-more-teamwork&#34;&gt;Second step: More Teamwork
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;All core learning tasks need to be completed through real collaboration.&lt;/strong&gt;
+The difficulty and cost of completing the task by one person must be set very high. By encouraging real cooperation, rather than forcing tasks to be bound without any interests. The task must be in everyone&amp;rsquo;s interest and related to the interests of the group. Group members need to be randomly assigned.&lt;/p&gt;
+&lt;h3 id=&#34;third-step-pacing&#34;&gt;Third step: Pacing
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Self-paced, independent time planning.&lt;/strong&gt;
+Unlike a universal learning pace that is synchronized for all students, each individual&amp;rsquo;s pace should be different, the pace should be suitable for them, and they should not know each other.&lt;/p&gt;
+&lt;h3 id=&#34;fourth-step-minimal-guidance&#34;&gt;Fourth step: Minimal Guidance
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Minimal, limited, appropriate guidance.&lt;/strong&gt;
+Minimal guidance and prompting and the removal of time limits allow students to learn to observe, analyze, and act early in their learning. The subsequent pace of learning can naturally accelerate, and students have very strong autonomous learning abilities.&lt;/p&gt;
+&lt;h3 id=&#34;fifth-step-comprehensive-rating-feedback&#34;&gt;Fifth step: Comprehensive Rating Feedback
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Debriefing, report, portfolios instead of rankings, class placement, GPA.&lt;/strong&gt;
+The core of the evaluation should not be based on standardized test scores, but on actual results, works and discussions. Less passive memorization of instruction and more integration into project learning objectives.&lt;/p&gt;
+&lt;h2 id=&#34;key-point-of-idealized-education-system&#34;&gt;Key Point of Idealized Education System
+&lt;/h2&gt;&lt;h3 id=&#34;mission-based-curriculum--learning-through-immersion&#34;&gt;Mission-Based Curriculum &amp;amp; Learning through Immersion
+&lt;/h3&gt;&lt;p&gt;Each subject has a clear target application scenario. The number of application questions should not be increased, but reduced and as few as possible with high quality. Project objectives should be exactly in line with the subject. They should not be designed to be too simple, as that would lose interest. Simple knowledge points should use simpler question formats, while project learning objectives should be more complex and often have no unified answer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and test a bridge with given constraints.&lt;/li&gt;
+&lt;li&gt;Role-play policy advisors in historical turning points.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;allow-slow-tactical-pacing&#34;&gt;Allow Slow, Tactical Pacing
+&lt;/h3&gt;&lt;p&gt;You shouldn’t pursue speed in the early stages of learning, which is why time limits are removed. Not everyone learns at the same speed, so the time it takes for everyone to reach a certain point will also be different. Practice on the basis of excellent quality, and speed will also be improved on the basis of excellent quality. Quality always takes precedence over speed. The same is true in the market. There is no shortage of products, but there is a shortage of excellent products, and even more so, great products. Over time, good and fast.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Encourage pauses for reflection&lt;/li&gt;
+&lt;li&gt;Allows retrying of failed methods with better planning&lt;/li&gt;
+&lt;li&gt;Normalize debriefs after major assignments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;team-accountability&#34;&gt;Team Accountability
+&lt;/h3&gt;&lt;p&gt;Traditional classes are still too large organizations. Ideally, each group should not exceed 5 people, and individual achievements need to be balanced with collective achievements. Too large a collective organization will drown out individual achievements, and too small an organization is not conducive to the development of collaborative skills.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear roles&lt;/li&gt;
+&lt;li&gt;Team success &amp;gt; individual brilliance&lt;/li&gt;
+&lt;li&gt;Built-in peer review&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;natural-punishment-and-reward&#34;&gt;Natural Punishment and Reward
+&lt;/h3&gt;&lt;p&gt;Grades replaced or supported by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Planning and assigning&lt;/li&gt;
+&lt;li&gt;Task completion&lt;/li&gt;
+&lt;li&gt;Requirement achievement&lt;/li&gt;
+&lt;li&gt;Post-mission reports &amp;amp; Reflections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;respect-based-community&#34;&gt;Respect-Based Community
+&lt;/h3&gt;&lt;p&gt;In RoN, failure is expected, and support is constructive. Facts have also proved that positive thoughts are always more conducive to learning and progress than negative emotions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove rigid ranking systems&lt;/li&gt;
+&lt;li&gt;Emphasize shared growth&lt;/li&gt;
+&lt;li&gt;Use feedback instead of shame&lt;/li&gt;
+&lt;li&gt;Replace “gifted vs. average” with “trained vs. untrained”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion
+&lt;/h2&gt;&lt;p&gt;To sum up the above, we find that the high difficulty represented by hardcore FPS games is not disgusting. We can improve the learning environment that is also considered to be difficult in the same way, thereby improving our perception and enthusiasm for learning.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Encourage deep, experiential learning over fast test-taking.&lt;/li&gt;
+&lt;li&gt;Cultivate teamwork and communication as a central skill.&lt;/li&gt;
+&lt;li&gt;Embrace failure as tactical feedback, not personal inadequacy.&lt;/li&gt;
+&lt;li&gt;Quality always over speed.&lt;/li&gt;
+&lt;li&gt;Treat students as person in training, not score chasers.&lt;/li&gt;
+&lt;li&gt;Make learning immersive, strategic, and professionally.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
         <title>The Boring MBTI System</title>
         <link>https://enthalpiex.github.io/en/p/the-boring-mbti-system/</link>
         <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
